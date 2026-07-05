@@ -1,7 +1,7 @@
 {
-    "version": "1.11.2",
-    "releaseDate": "2026-03-09",
-    "releaseNotes": "1、【新增】序号样式（不带圈）\n2、【新增】荧光笔、折线3、【新增】录制后的视频 显示鼠标\n4、【新增】不保留历史截图\n5、【调整】右键可退出 拾色器 窗口\n6、【新增】设置项：OCR不打开窗口\n7、【修复】在水平方式上未完整马赛克问题\n8、【试图】再次解决‘UI检测’内存占用过多的问题",
+    "version": "1.13.10",
+    "releaseDate": "2026-07-05",
+    "releaseNotes": "本地OCR默认开启，每日免费限额更高\n跨屏截图更好用了\n贴图拖拽等比缩放，按住 Shift 可自由裁剪\n按shift，可画正圆 正方形\n矩形可旋转、直线可拖出曲线\n录屏画面更流畅，音画同步不卡顿\n截图历史可收藏，查找更方便\n",
     "required": false,
     "minVersion": "0.0.0",
     "downloads": {
@@ -9,18 +9,18 @@
             "name": "绿色版便携版",
             "description": "解压即用，体积更小",
             "size": "19 MB",
-            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.11.2/PixWit-1.11.2-Portable.7z",
-            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.11.2/PixWit-1.11.2-Portable.7z",
-            "baiduPan": "https://pan.baidu.com/s/1l3xwG9R4JREMpaeopZ3IRg?pwd=r5bn"
+            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.13.10/PixWit-1.13.10-Portable.7z",
+            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.13.10/PixWit-1.13.10-Portable.7z",
+            "baiduPan": "https://pan.baidu.com/s/1HEOB14qrm4OR17QB2zHNIg?pwd=wjjw"
 
         },
         "setup": {
             "name": "安装版",
             "description": "一键安装，自动配置",
             "size": "21 MB",
-            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.11.2/PixWit-1.11.2-Setup.exe",
-            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.11.2/PixWit-1.11.2-Setup.exe",
-            "baiduPan": "https://pan.baidu.com/s/1fZIS5ecSGMdeaKMrJ6l8sQ?pwd=22q4"
+            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.13.10/PixWit-1.13.10-Setup.exe",
+            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.13.10/PixWit-1.13.10-Setup.exe",
+            "baiduPan": "https://pan.baidu.com/s/1AKORl64TKT_gr-cQ8pyAzg?pwd=kwnp"
 
         }
     },

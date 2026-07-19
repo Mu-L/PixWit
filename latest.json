@@ -1,7 +1,7 @@
 {
-    "version": "1.13.10",
-    "releaseDate": "2026-07-05",
-    "releaseNotes": "本地OCR默认开启，每日免费限额更高\n跨屏截图更好用了\n贴图拖拽等比缩放，按住 Shift 可自由裁剪\n按shift，可画正圆 正方形\n矩形可旋转、直线可拖出曲线\n录屏画面更流畅，音画同步不卡顿\n截图历史可收藏，查找更方便\n",
+    "version": "1.14.0",
+    "releaseDate": "2026-07-19",
+    "releaseNotes": "新增：马赛克工具新增「文本抹除」模式；GIF 快速模式；OCR 识别结果排版；停止检查更新；修复若干BUG\n",
     "required": false,
     "minVersion": "0.0.0",
     "downloads": {
@@ -9,18 +9,18 @@
             "name": "绿色版便携版",
             "description": "解压即用，体积更小",
             "size": "19 MB",
-            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.13.10/PixWit-1.13.10-Portable.7z",
-            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.13.10/PixWit-1.13.10-Portable.7z",
-            "baiduPan": "https://pan.baidu.com/s/1HEOB14qrm4OR17QB2zHNIg?pwd=wjjw"
+            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.14.0/PixWit-1.14.0-Portable.7z",
+            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.14.0/PixWit-1.14.0-Portable.7z",
+            "baiduPan": "https://pan.baidu.com/s/1qtzyXOPcUUJdCgjaRx2irQ?pwd=g9ht"
 
         },
         "setup": {
             "name": "安装版",
             "description": "一键安装，自动配置",
             "size": "21 MB",
-            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.13.10/PixWit-1.13.10-Setup.exe",
-            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.13.10/PixWit-1.13.10-Setup.exe",
-            "baiduPan": "https://pan.baidu.com/s/1AKORl64TKT_gr-cQ8pyAzg?pwd=kwnp"
+            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.14.0/PixWit-1.14.0-Setup.exe",
+            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.14.0/PixWit-1.14.0-Setup.exe",
+            "baiduPan": "https://pan.baidu.com/s/1UNtfMZEsJjSV9_UD_6uMjg?pwd=aywn"
 
         }
     },

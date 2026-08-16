@@ -1,7 +1,7 @@
 {
-    "version": "1.14.0",
-    "releaseDate": "2026-07-19",
-    "releaseNotes": "新增：马赛克工具新增「文本抹除」模式；GIF 快速模式；OCR 识别结果排版；停止检查更新；修复若干BUG\n",
+    "version": "1.15.5",
+    "releaseDate": "2026-08-16",
+    "releaseNotes": "录屏功能优化\n滚动截长图优化\n修复若干已知问题。",
     "required": false,
     "minVersion": "0.0.0",
     "downloads": {
@@ -9,18 +9,18 @@
             "name": "绿色版便携版",
             "description": "解压即用，体积更小",
             "size": "19 MB",
-            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.14.0/PixWit-1.14.0-Portable.7z",
-            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.14.0/PixWit-1.14.0-Portable.7z",
-            "baiduPan": "https://pan.baidu.com/s/1qtzyXOPcUUJdCgjaRx2irQ?pwd=g9ht"
+            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.15.5/PixWit-1.15.5-Portable.7z",
+            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.15.5/PixWit-1.15.5-Portable.7z",
+            "baiduPan": "https://pan.baidu.com/s/1guCHZGw5Bp2qctMjzfRfdA?pwd=ip4c"
 
         },
         "setup": {
             "name": "安装版",
             "description": "一键安装，自动配置",
             "size": "21 MB",
-            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.14.0/PixWit-1.14.0-Setup.exe",
-            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.14.0/PixWit-1.14.0-Setup.exe",
-            "baiduPan": "https://pan.baidu.com/s/1UNtfMZEsJjSV9_UD_6uMjg?pwd=aywn"
+            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.15.5/PixWit-1.15.5-Setup.exe",
+            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.15.5/PixWit-1.15.5-Setup.exe",
+            "baiduPan": "https://pan.baidu.com/s/1s-36fevaGrruRmy8ay85Pw?pwd=sp8d"
 
         }
     },

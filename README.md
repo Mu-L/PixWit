@@ -78,6 +78,7 @@ Windows 截图与录屏工具，集成基础视频剪辑能力：单屏快速截
 
 <div align="center">
   <img src="QQ.png" alt="PixWit交流反馈群" width="300">
+  <img src="qq群2.png" alt="PixWit交流反馈2群（群号：1091085813）" width="300">
 </div>
 
 ---

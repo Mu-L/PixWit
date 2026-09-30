@@ -77,7 +77,6 @@ Windows 截图与录屏工具，集成基础视频剪辑能力：单屏快速截
 欢迎加入 PixWit 交流反馈群，获取最新动态、反馈问题、交流使用心得：
 
 <div align="center">
-  <img src="QQ.png" alt="PixWit交流反馈群" width="300">
   <img src="qq群2.png" alt="PixWit交流反馈2群（群号：1091085813）" width="300">
 </div>
 
